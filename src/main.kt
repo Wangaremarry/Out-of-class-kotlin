@@ -1,7 +1,7 @@
 fun main() {
 name()
     state()
-    var number=numbers(56,67,78,98)
+    var number=numbers(90,67,78,98)
     println(number.contentToString())
     var mixnumber = mixnumbers(34, 90.88, 87.87, 78)
     println(mixnumber.contentToString())
